@@ -20,8 +20,8 @@ Informatics graduate from Universitas Amikom Yogyakarta, Indonesia. Interested i
 
 ### Contact
 
-- GitHub: [@fauzsanno](https://github.com/fauzsanno)
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
+- Instagram: https://www.instagram.com/zsannorettob?igsi=MXhweXhzdzloZXE0bQ==
+- LinkedIn: -
 
 ---
 
