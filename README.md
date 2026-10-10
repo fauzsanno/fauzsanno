@@ -2,26 +2,35 @@
 
 **Aspiring Data Scientist | Machine Learning Enthusiast**
 
-Informatics graduate from Universitas Amikom Yogyakarta, Indonesia. Interested in data science, machine learning, and model deployment to develop data-driven solutions for real-world problems.
+Informatics graduate from Universitas Amikom Yogyakarta, Indonesia. Interested in data science, machine learning, and model deployment to develop data-driven solutions.
 
-### Technical Skills
+## Technical Skills
 
 - **Programming:** Python, SQL, PHP
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Machine Learning:** XGBoost, LightGBM, Clustering
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
 - **Tools:** Git, GitHub, VS Code, Streamlit
 
-### GitHub Statistics
+## Featured Projects
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
-</p>
+### 1. Heart Disease Risk Prediction
+Hybrid Gradient Boosting using XGBoost and LightGBM to predict heart disease risk.
 
-### Contact
+[View Repository](https://github.com/fauzsanno/hybrid-xgboost-lightgbm-heart-prediction)
 
-- Instagram: https://www.instagram.com/zsannorettob?igsi=MXhweXhzdzloZXE0bQ==
-- LinkedIn: -
+### 2. Customer Segmentation
+Customer segmentation using RFM analysis and clustering algorithms on Online Retail II data.
+
+[View Repository](https://github.com/fauzsanno/customer-segmentation-rfm)
+
+### 3. Personal Portfolio
+A personal website showcasing my projects, technical skills, and professional background.
+
+[View Repository](https://github.com/fauzsanno/Portofolio)
+
+## GitHub Activity
+
+View my repositories, contributions, and coding activity directly on my [GitHub profile](https://github.com/fauzsanno).
 
 ---
 
