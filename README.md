@@ -1,37 +1,40 @@
-# Joe Fauzsanno Rettob
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Joe Fauzsanno Rettob</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-**Aspiring Data Scientist | Machine Learning Enthusiast**
-
-Informatics graduate from Universitas Amikom Yogyakarta, Indonesia. Interested in data science, machine learning, and model deployment to develop data-driven solutions.
-
-## Technical Skills
-
-- **Programming:** Python, SQL, PHP
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-- **Tools:** Git, GitHub, VS Code, Streamlit
-
-## Featured Projects
-
-### 1. Heart Disease Risk Prediction
-Hybrid Gradient Boosting using XGBoost and LightGBM to predict heart disease risk.
-
-[View Repository](https://github.com/fauzsanno/hybrid-xgboost-lightgbm-heart-prediction)
-
-### 2. Customer Segmentation
-Customer segmentation using RFM analysis and clustering algorithms on Online Retail II data.
-
-[View Repository](https://github.com/fauzsanno/customer-segmentation-rfm)
-
-### 3. Personal Portfolio
-A personal website showcasing my projects, technical skills, and professional background.
-
-[View Repository](https://github.com/fauzsanno/Portofolio)
-
-## GitHub Activity
-
-View my repositories, contributions, and coding activity directly on my [GitHub profile](https://github.com/fauzsanno).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Building+Machine+Learning+Solutions;Exploring+ML+Deployment" alt="Typing SVG" />
+</p>
 
 ---
 
-*Turning data into insights and insights into impact.*
+### About Me
+
+- 🎓 Informatics Graduate — Universitas Amikom Yogyakarta
+- 📊 Interested in Data Science and Machine Learning
+- ⚙️ Exploring model deployment and MLOps
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Tech stack" />
+</p>
+
+### Featured Projects
+
+- **[Heart Disease Prediction](https://github.com/fauzsanno/hybrid-xgboost-lightgbm-heart-prediction)** — Hybrid XGBoost & LightGBM.
+- **[Customer Segmentation](https://github.com/fauzsanno/customer-segmentation-rfm)** — RFM analysis and clustering.
+- **[Personal Portfolio](https://github.com/fauzsanno/Portofolio)** — Personal portfolio website.
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fauzsanno">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
