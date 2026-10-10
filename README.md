@@ -11,23 +11,6 @@ Informatics graduate from Universitas Amikom Yogyakarta, Indonesia. Interested i
 - **Machine Learning:** XGBoost, LightGBM, Clustering
 - **Tools:** Git, GitHub, VS Code, Streamlit
 
-### Featured Projects
-
-**1. Heart Disease Risk Prediction**
-Hybrid Gradient Boosting model combining XGBoost and LightGBM for heart disease risk prediction.
-
-[Repository](https://github.com/fauzsanno/hybrid-xgboost-lightgbm-heart-prediction)
-
-**2. Customer Segmentation**
-Customer segmentation using RFM analysis and clustering algorithms on Online Retail II data.
-
-[Repository](https://github.com/fauzsanno/customer-segmentation-rfm)
-
-**3. Personal Portfolio**
-Personal website showcasing my projects, technical skills, and professional background.
-
-[Repository](https://github.com/fauzsanno/Portofolio)
-
 ### GitHub Statistics
 
 <p align="center">
