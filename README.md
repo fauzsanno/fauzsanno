@@ -12,9 +12,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Languages Used in My Projects" />
 </p>
 
-
-## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td align="center" width="25%">
@@ -75,7 +72,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Building data-driven solutions with Python and Machine Learning.</i>
-</p>
