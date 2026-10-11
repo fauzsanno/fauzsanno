@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Joe Fauzsanno Rettob</h1>
+<h1 align="center">Hi 👋!, I'm Joe Fauzsanno Rettob</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -7,19 +7,49 @@
 </p>
 
 ---
-
-# Hi 👋! I'm Joe Fauzsanno Rettob, an Aspiring Data Scientist from Indonesia
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=midnight-purple&hide_border=false" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="Joe's GitHub Overview" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Languages Used in My Projects" />
 </p>
 
-### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,php,git,github,vscode" alt="Tech Stack" />
-</p>
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>📊 Data Science & ML</strong>
+    </td>
+    <td align="center" width="25%">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center" width="25%">
+      <strong>⚙️ Backend</strong>
+    </td>
+    <td align="center" width="25%">
+      <strong>🗄️ Database</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /><br/>
+      Data Mining<br/>Machine Learning
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind" height="40" alt="Next.js, TypeScript, React, Tailwind CSS" /><br/>
+      Next.js · TypeScript<br/>React · Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel" height="40" alt="PHP, Laravel" /><br/>
+      PHP · Laravel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /><br/>
+      SQL · MySQL
+    </td>
+  </tr>
+</table>
+
 
 ### Connect With Me
 
