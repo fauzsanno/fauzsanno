@@ -1,1 +1,31 @@
 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <defs>
+    <linearGradient id="instagramGradient" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FCAF45"/>
+      <stop offset="25%" stop-color="#F77737"/>
+      <stop offset="50%" stop-color="#E1306C"/>
+      <stop offset="75%" stop-color="#C13584"/>
+      <stop offset="100%" stop-color="#833AB4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="160" height="40" rx="5" fill="url(#instagramGradient)"/>
+
+  <g transform="translate(12 10)" fill="none" stroke="#FFFFFF" stroke-width="2.2">
+    <rect width="20" height="20" rx="5"/>
+    <circle cx="10" cy="10" r="4.5"/>
+    <circle cx="15.5" cy="4.8" r="1" fill="#FFFFFF" stroke="none"/>
+  </g>
+
+  <text
+    x="43"
+    y="25"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13"
+    font-weight="700"
+    fill="#FFFFFF"
+    letter-spacing="0.5"
+  >INSTAGRAM</text>
+</svg>
