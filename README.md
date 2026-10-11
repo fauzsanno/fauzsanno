@@ -54,18 +54,24 @@
 ### Connect With Me
 
 <p align="left">
-  <a href="https://github.com/fauzsanno">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://portofolio-jfr5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&logo=portofolio&logoColor=white" alt="Portofolio" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:jorettob@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/fauzsanno?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  
+  <a href="https://www.instagram.com/zsannorettob/">
+    <img
+      src="https://raw.githubusercontent.com/fauzsanno/fauzsanno/main/instagram-badge.svg"
+      alt="Instagram"
+      height="28"
+    />
   </a>
+
 </p>
 
 ---
