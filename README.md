@@ -7,10 +7,8 @@
 </p>
 
 ---
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="Joe's GitHub Overview" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Languages Used in My Projects" />
-</p>
+html
+<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="GitHub Account Statistics" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Most Used Programming Languages" /></p>
 
 <table>
   <tr>
