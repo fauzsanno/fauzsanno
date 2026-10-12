@@ -7,24 +7,35 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md"
 
 permissions:
   contents: write
 
 jobs:
   update-activity:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Update recent GitHub activity
-        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           GH_USERNAME: fauzsanno
-          MAX_LINES: 5
-          COMMIT_NAME: github-actions[bot]
-          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          MAX_LINES: "5"
+        run: python .github/scripts/update_activity.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+          else
+            git commit -m "chore: update GitHub activity"
+            git push
+          fi
