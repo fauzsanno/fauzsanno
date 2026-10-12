@@ -1,3 +1,4 @@
+
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Joe Fauzsanno Rettob</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
@@ -9,26 +10,26 @@
 ---
 
 <!-- GITHUB OVERVIEW -->
+<h2 align="center">📊 GitHub Overview</h2>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="GitHub Account Statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Most Used Programming Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Account Statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
 </p>
 
+---
+
 <!-- RECENT GITHUB ACTIVITY -->
-### Recent GitHub Activity
+<h2>⚡ Recent GitHub Activity</h2>
 
 <!--START_SECTION:activity-->
-- **12 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
-- **12 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
-- **12 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
-- **10 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
-- **11 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
+_Activity will be updated automatically by GitHub Actions._
 <!--END_SECTION:activity-->
 
 ---
 
 <!-- TECH STACK -->
-### Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
 <table>
   <tr>
@@ -68,7 +69,7 @@
 ---
 
 <!-- CONTACT -->
-### Connect With Me
+<h2>📫 Connect With Me</h2>
 
 <p align="left">
   <a href="https://portofolio-jfr5.vercel.app/">
