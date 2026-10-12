@@ -1,6 +1,6 @@
 
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Fauzsanno</h1>
+<h1 align="center">Hi 👋, I'm Fauzsann</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
