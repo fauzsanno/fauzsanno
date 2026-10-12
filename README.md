@@ -10,7 +10,6 @@
 ---
 
 <!-- GITHUB OVERVIEW -->
-<h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Account Statistics" />
@@ -19,10 +18,10 @@
 
 ---
 
-<!-- RECENT GITHUB ACTIVITY -->
+<!-- RECENT GITHUB ACTIVITY 
 <h2>⚡ Recent GitHub Activity</h2>
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity
 _Activity will be updated automatically by GitHub Actions._
 <!--END_SECTION:activity-->
 
@@ -56,8 +55,8 @@ _Activity will be updated automatically by GitHub Actions._
       Next.js · TypeScript<br/>React · Tailwind CSS
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,laravel" height="40" alt="PHP and Laravel" /><br/>
-      PHP · Laravel
+      <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP " /><br/>
+      PHP 
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /><br/>
