@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Building+Machine+Learning+Solutions;Exploring+ML+Deployment" alt="Introduction animation" />
 </p>
 
----
 
 <!-- GITHUB OVERVIEW -->
 
@@ -16,8 +15,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages" />
 </p>
 
----
-
 <!-- RECENT GITHUB ACTIVITY 
 <h2>⚡ Recent GitHub Activity</h2>
 
@@ -25,11 +22,7 @@
 _Activity will be updated automatically by GitHub Actions._
 <!--END_SECTION:activity-->
 
----
-
 <!-- TECH STACK -->
-<h2>🛠️ Technical Skills</h2>
-
 <table>
   <tr>
     <td align="center" width="25%">
@@ -65,11 +58,8 @@ _Activity will be updated automatically by GitHub Actions._
   </tr>
 </table>
 
----
-
 <!-- CONTACT -->
 <h2>📫 Connect With Me</h2>
-
 <p align="left">
   <a href="https://portofolio-jfr5.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
