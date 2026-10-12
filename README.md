@@ -85,6 +85,3 @@ _Activity will be updated automatically by GitHub Actions._
   </a>
 </p>
 
-<p align="center">
-  <i>Turning data into insights and building solutions that matter.</i>
-</p>
