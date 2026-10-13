@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Fauzsann</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">Data scientist & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Building+Machine+Learning+Solutions;Exploring+ML+Deployment" alt="Introduction animation" />
@@ -26,7 +26,7 @@ _Activity will be updated automatically by GitHub Actions._
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>Data Science & ML</strong>
+      <strong>Data scientist & ML</strong>
     </td>
     <td align="center" width="25%">
       <strong>Frontend</strong>
@@ -41,7 +41,7 @@ _Activity will be updated automatically by GitHub Actions._
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /><br/>
-      Data Mining<br/>Machine Learning
+      Data scientist<br/>Machine Learning
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind" height="40" alt="Next.js, TypeScript, React, Tailwind CSS" /><br/>
