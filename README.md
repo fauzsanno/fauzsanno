@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Fauzsann</h1>
-<h3 align="center">Data scientist & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Mining & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Building+Machine+Learning+Solutions;Exploring+ML+Deployment" alt="Introduction animation" />
