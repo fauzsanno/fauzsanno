@@ -1,9 +1,11 @@
-name: Update GitHub Activity
+name: Update GitHub Activity and Language Statistics
 
 on:
   schedule:
     - cron: "17 * * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -14,12 +16,17 @@ permissions:
   contents: write
 
 jobs:
-  update-activity:
+  update-profile:
     runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
 
       - name: Update recent GitHub activity
         env:
@@ -28,14 +35,23 @@ jobs:
           MAX_LINES: "5"
         run: python .github/scripts/update_activity.py
 
+      - name: Update programming language statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_API_TOKEN: ${{ secrets.REPO_READ_TOKEN }}
+          GH_USERNAME: fauzsanno
+        run: python .github/scripts/update_languages.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
+
           if git diff --cached --quiet; then
             echo "No README changes to commit."
           else
-            git commit -m "chore: update GitHub activity"
+            git commit -m "chore: update GitHub activity and language statistics"
             git push
           fi
