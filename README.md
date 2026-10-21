@@ -26,9 +26,37 @@ _Activity will be updated automatically by GitHub Actions._
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- **21 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
+- **10 Oct 2026** — made [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) public
+- **19 Oct 2026** — pushed code to [fauzsanno/Telco-Customer-Churn-Prediction](https://github.com/fauzsanno/Telco-Customer-Churn-Prediction)
+- **19 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
+- **19 Oct 2026** — pushed code to [fauzsanno/Telco-Customer-Churn-Prediction](https://github.com/fauzsanno/Telco-Customer-Churn-Prediction)
+<!--END_SECTION:activity-->
+
+## 📊 GitHub Statistics
+
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:languages-->
+### Programming Languages Across Repositories
+
+Repositories: **9** | Private repositories: **4** | Repositories with language data: **8**
+
+| Language | Usage | Percentage |
+|---|---|---:|
+| PHP | `██████████░░░░░░░░░░` | 51.13% |
+| Blade | `█████░░░░░░░░░░░░░░░` | 22.70% |
+| Python | `██░░░░░░░░░░░░░░░░░░` | 12.09% |
+| TypeScript | `██░░░░░░░░░░░░░░░░░░` | 11.98% |
+| Hack | `░░░░░░░░░░░░░░░░░░░░` | 1.57% |
+| JavaScript | `░░░░░░░░░░░░░░░░░░░░` | 0.18% |
+| Dockerfile | `░░░░░░░░░░░░░░░░░░░░` | 0.18% |
+| CSS | `░░░░░░░░░░░░░░░░░░░░` | 0.17% |
+
+_Automatically updated using GitHub repository language data._
 <!--END_SECTION:languages-->
 
 <!-- TECH STACK -->
