@@ -26,6 +26,11 @@
 <h2>⚡ Recent GitHub Activity</h2>
 
 <!--START_SECTION:activity-->
+- **21 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
+- **10 Oct 2026** — made [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) public
+- **19 Oct 2026** — pushed code to [fauzsanno/Telco-Customer-Churn-Prediction](https://github.com/fauzsanno/Telco-Customer-Churn-Prediction)
+- **19 Oct 2026** — pushed code to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno)
+- **19 Oct 2026** — pushed code to [fauzsanno/Telco-Customer-Churn-Prediction](https://github.com/fauzsanno/Telco-Customer-Churn-Prediction)
 <!--END_SECTION:activity-->
 
 ---
@@ -34,6 +39,37 @@
 <!-- The Python workflow updates this section automatically. -->
 
 <!--START_SECTION:languages-->
+### Programming Languages Across Repositories
+
+> Analysis covers **9 repositories**: 5 public and 4 private.
+> Private repositories contribute to aggregate language statistics, but their names are hidden.
+
+#### Language Distribution
+
+| Language | Percentage | Distribution | Code size |
+|---|---:|---|---:|
+| PHP | 51.13% | `██████████░░░░░░░░░░` | 206,992 bytes |
+| Blade | 22.70% | `█████░░░░░░░░░░░░░░░` | 91,883 bytes |
+| Python | 12.09% | `██░░░░░░░░░░░░░░░░░░` | 48,937 bytes |
+| TypeScript | 11.98% | `██░░░░░░░░░░░░░░░░░░` | 48,513 bytes |
+| Hack | 1.57% | `░░░░░░░░░░░░░░░░░░░░` | 6,376 bytes |
+| JavaScript | 0.18% | `░░░░░░░░░░░░░░░░░░░░` | 724 bytes |
+| Dockerfile | 0.18% | `░░░░░░░░░░░░░░░░░░░░` | 711 bytes |
+| CSS | 0.17% | `░░░░░░░░░░░░░░░░░░░░` | 695 bytes |
+
+_Percentages are calculated across all detected language bytes (404,831 bytes)._
+
+#### Repository Breakdown
+
+| Repository | Visibility | Primary Language | Languages Detected |
+|---|---|---|---|
+| [fauzsanno/car_rental-main](https://github.com/fauzsanno/car_rental-main) | Public | PHP | PHP, Blade, Hack, CSS, JavaScript |
+| [fauzsanno/customer-segmentation-rfm](https://github.com/fauzsanno/customer-segmentation-rfm) | Public | Python | Python |
+| [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) | Public | Not detected | Not detected |
+| [fauzsanno/hybrid-xgboost-lightgbm-heart-prediction](https://github.com/fauzsanno/hybrid-xgboost-lightgbm-heart-prediction) | Public | Python | Python |
+| [fauzsanno/Telco-Customer-Churn-Prediction](https://github.com/fauzsanno/Telco-Customer-Churn-Prediction) | Public | Python | Python |
+
+_Names of 4 private repository/repositories are hidden for privacy._
 <!--END_SECTION:languages-->
 
 ---
