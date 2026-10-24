@@ -61,7 +61,7 @@ _Activity will be updated automatically by GitHub Actions._
 <!-- CONTACT -->
 <h2>📫 Connect With Me</h2>
 <p align="left">
-  <a href="https://portofolio-jfr5.vercel.app/">
+  <a href="https://portofolio-omega-orpin-68.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
