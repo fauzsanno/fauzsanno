@@ -74,3 +74,5 @@ _Activity will be updated automatically by GitHub Actions._
     <img src="https://raw.githubusercontent.com/fauzsanno/fauzsanno/main/instagram-badge.svg" alt="Instagram" height="28" />
   </a>
 </p>
+
+
