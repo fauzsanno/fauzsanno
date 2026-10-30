@@ -7,8 +7,8 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Account Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=fauzsanno&show_icons=true"
+    alt="GitHub Statistics"
   />
   <img
     width="48%"
