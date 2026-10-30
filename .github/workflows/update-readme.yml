@@ -1,4 +1,4 @@
-name: Update GitHub Activity and Language Statistics
+name: Update GitHub Activity
 
 on:
   schedule:
@@ -35,13 +35,6 @@ jobs:
           MAX_LINES: "5"
         run: python .github/scripts/update_activity.py
 
-      - name: Update programming language statistics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_API_TOKEN: ${{ secrets.REPO_READ_TOKEN }}
-          GH_USERNAME: fauzsanno
-        run: python .github/scripts/update_languages.py
-
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -52,6 +45,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No README changes to commit."
           else
-            git commit -m "chore: update GitHub activity and language statistics"
+            git commit -m "chore: update GitHub activity"
             git push
           fi
