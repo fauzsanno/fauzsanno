@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Fauzsann</h1>
-<h3 align="center">Data Mining & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Mining, Machine Learning Enthusiast & Front-End Web Developer</h3>
 
 
 <!-- GITHUB OVERVIEW -->
