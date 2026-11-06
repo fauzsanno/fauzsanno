@@ -21,6 +21,11 @@
 <h2 align="center">📊 Recent GitHub Activity</h2>
 
 <!--START_SECTION:activity-->
+- Starred [affaan-m/ECC](https://github.com/affaan-m/ECC) — 2026-11-01
+- Pushed 0 commit(s) to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) — 2026-10-30
+- Pushed 0 commit(s) to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) — 2026-10-30
+- Pushed 0 commit(s) to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) — 2026-10-30
+- Pushed 0 commit(s) to [fauzsanno/fauzsanno](https://github.com/fauzsanno/fauzsanno) — 2026-10-30
 <!--END_SECTION:activity-->
 
 <!-- TECH STACK -->
