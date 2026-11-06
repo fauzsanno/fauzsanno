@@ -17,9 +17,6 @@
   />
 </p>
 
-<!-- GITHUB ACTIVITY -->
-<h2 align="center">📊 Recent GitHub Activity</h2>
-
 
 <!-- TECH STACK -->
 <table>
