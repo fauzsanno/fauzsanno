@@ -1,7 +1,7 @@
+
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Fauzsann</h1>
-<h3 align="center"> Data Mining, Machine Learning & Front-End Web Developer</h3>
-
+<h3 align="center">Data Mining, Machine Learning & Front-End Web Developer</h3>
 
 <!-- GITHUB OVERVIEW -->
 <p align="center">
@@ -12,19 +12,22 @@
   />
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzsanno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="./assets/top-langs.svg"
     alt="Most Used Programming Languages"
   />
 </p>
 
+<!-- GITHUB ACTIVITY -->
+<h2 align="center">📊 Recent GitHub Activity</h2>
 
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- TECH STACK -->
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>Data scientist & ML</strong>
+      <strong>Data Scientist & ML</strong>
     </td>
     <td align="center" width="25%">
       <strong>Frontend</strong>
@@ -39,7 +42,7 @@
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /><br/>
-      Data scientist<br/>Machine Learning
+      Data Science<br/>Machine Learning
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind" height="40" alt="Next.js, TypeScript, React, Tailwind CSS" /><br/>
@@ -55,7 +58,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- CONTACT -->
 <h2>📫 Connect With Me</h2>
