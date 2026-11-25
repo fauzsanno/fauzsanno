@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fauzsann</h1>
 <h3 align="center">Data Mining, Machine Learning & Front-End Web Developer</h3>
 
-<!-- GITHUB OVERVIEW -->
+<!-- GITHUB STATISTICS -->
 <p align="center">
   <img
     width="48%"
@@ -16,12 +16,6 @@
     alt="Most Used Programming Languages"
   />
 </p>
-
-<!-- GITHUB ACTIVITY -->
-<h2>📈 GitHub Activity</h2>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!-- TECH STACK -->
 <h2>🛠️ Tech Stack</h2>
@@ -61,13 +55,8 @@
   </tr>
 </table>
 
-<!-- MOST USED LANGUAGES -->
-
-<!--START_SECTION:languages-->
-
-<!--END_SECTION:languages-->
-
 <!-- CONTACT -->
+<h2>📫 Connect With Me</h2>
 
 <p align="left">
   <a href="https://jfr-portofolio.vercel.app/">
