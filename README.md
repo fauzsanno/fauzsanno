@@ -62,16 +62,12 @@
 </table>
 
 <!-- MOST USED LANGUAGES -->
-<h2>💻 Most Used Languages</h2>
 
 <!--START_SECTION:languages-->
-<p align="center">
-  <img src="./assets/top-langs.svg" alt="Most Used Programming Languages" />
-</p>
+
 <!--END_SECTION:languages-->
 
 <!-- CONTACT -->
-<h2>📫 Connect With Me</h2>
 
 <p align="left">
   <a href="https://jfr-portofolio.vercel.app/">
