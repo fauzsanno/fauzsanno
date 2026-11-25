@@ -17,8 +17,15 @@
   />
 </p>
 
+<!-- GITHUB ACTIVITY -->
+<h2>📈 GitHub Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+
 <table>
   <tr>
     <td align="center" width="25%">
@@ -53,6 +60,15 @@
     </td>
   </tr>
 </table>
+
+<!-- MOST USED LANGUAGES -->
+<h2>💻 Most Used Languages</h2>
+
+<!--START_SECTION:languages-->
+<p align="center">
+  <img src="./assets/top-langs.svg" alt="Most Used Programming Languages" />
+</p>
+<!--END_SECTION:languages-->
 
 <!-- CONTACT -->
 <h2>📫 Connect With Me</h2>
